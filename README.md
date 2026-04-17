@@ -73,35 +73,12 @@
 [2024-03-20T14:22:15] EXPLOITING identified CVE-202X-XXXX... [SUCCESS]
 [2024-03-25T18:05:44] ESCALATING PRIVILEGES to NT AUTHORITY\SYSTEM... [SUCCESS]
 [2024-04-01T23:59:59] DEPLOYING Persistence & Exfiltrating data... [IN_PROGRESS]
+[2026-04-17T20:10:08] TRACING SOURCE IP... ENOUGH FOR DOXER .. [RUNNING]
 ```
 
-- 🔭 **Current Op**: Auditing high-value Financial Infrastructure.
-- 🌱 **Deep Learning**: Kernel-level Exploitation & Custom EDR Bypass.
-- 💬 **Intel Exchange**: Reach out for specialized Red Teaming consultations.
-- 📫 **Encrypted Channel**: `odiyan911@proton.me`
-- ⚡ **Last Hash Cracked**: `[REDACTED]`
-
 ---
 
-### 🌐 **FIND ME IN THE MATRIX**
 
-<p align="center">
-  <a href="https://twitter.com/odiyan911">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/odiyan911">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/odiyan911">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhmoudmoussa/mhmoudmoussa/master/assets/images/footer.svg" width="100%" />
-</p>
 
 <p align="center">
   <i>"I'm not a hacker, I'm a security professional who happens to know how to break things."</i>
